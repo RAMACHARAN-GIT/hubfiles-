@@ -1,3 +1,4 @@
 this is created in branch_one and import to main branch and first checking there it is there are not
 new text is add here
 i am add text in github edit option i dont need to add, commit in git local i can do same thing here also
+i am adding one more line here in github and using git pull command to change all
